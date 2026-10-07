@@ -1,0 +1,399 @@
+[
+    {
+        "course_id": "AI001",
+        "course_name": "Python for Beginners",
+        "category": "Programming",
+        "difficulty": "Beginner",
+        "prerequisites": [
+            "Basic computer knowledge"
+        ],
+        "skills": [
+            "Python",
+            "Programming Fundamentals"
+        ],
+        "learning_outcomes": [
+            "Write Python programs",
+            "Understand variables, loops and functions",
+            "Work with basic data structures"
+        ]
+    },
+    {
+        "course_id": "AI002",
+        "course_name": "Machine Learning Fundamentals",
+        "category": "Artificial Intelligence",
+        "difficulty": "Intermediate",
+        "prerequisites": [
+            "Python",
+            "Basic Mathematics",
+            "Basic Statistics"
+        ],
+        "skills": [
+            "Machine Learning",
+            "Python",
+            "Statistics"
+        ],
+        "learning_outcomes": [
+            "Understand supervised and unsupervised learning",
+            "Build basic machine learning models",
+            "Evaluate machine learning models"
+        ]
+    },
+    {
+        "course_id": "AI003",
+        "course_name": "Deep Learning with Neural Networks",
+        "category": "Artificial Intelligence",
+        "difficulty": "Intermediate",
+        "prerequisites": [
+            "Python",
+            "Machine Learning Fundamentals"
+        ],
+        "skills": [
+            "Deep Learning",
+            "Neural Networks",
+            "PyTorch"
+        ],
+        "learning_outcomes": [
+            "Understand neural networks",
+            "Build deep learning models",
+            "Work with PyTorch"
+        ]
+    },
+    {
+        "course_id": "AI004",
+        "course_name": "Generative AI and LLMs",
+        "category": "Generative AI",
+        "difficulty": "Advanced",
+        "prerequisites": [
+            "Python",
+            "Machine Learning Fundamentals",
+            "Deep Learning"
+        ],
+        "skills": [
+            "Generative AI",
+            "LLMs",
+            "Transformers",
+            "RAG"
+        ],
+        "learning_outcomes": [
+            "Understand Large Language Models",
+            "Understand Transformer architecture",
+            "Build basic RAG applications"
+        ]
+    },
+    {
+        "course_id": "AI005",
+        "course_name": "Natural Language Processing Fundamentals",
+        "category": "Artificial Intelligence",
+        "difficulty": "Advanced",
+        "prerequisites": [
+            "Python",
+            "Machine Learning Fundamentals",
+            "Deep Learning"
+        ],
+        "skills": [
+            "NLP",
+            "Text Processing",
+            "Natural Language Processing"
+        ],
+        "learning_outcomes": [
+            "Understand natural language processing",
+            "Process and analyze text data",
+            "Build basic NLP applications"
+        ]
+    },
+    {
+        "course_id": "AI006",
+        "course_name": "Computer Vision Fundamentals",
+        "category": "Artificial Intelligence",
+        "difficulty": "Advanced",
+        "prerequisites": [
+            "Python",
+            "Machine Learning Fundamentals",
+            "Deep Learning"
+        ],
+        "skills": [
+            "Computer Vision",
+            "Image Processing",
+            "OpenCV"
+        ],
+        "learning_outcomes": [
+            "Understand computer vision concepts",
+            "Process images using Python",
+            "Build basic computer vision applications"
+        ]
+    },
+    {
+        "course_id": "AI007",
+        "course_name": "Data Science Fundamentals",
+        "category": "Data Science",
+        "difficulty": "Intermediate",
+        "prerequisites": [
+            "Python",
+            "Basic Statistics"
+        ],
+        "skills": [
+            "Data Science",
+            "Data Analysis",
+            "Statistics",
+            "Pandas"
+        ],
+        "learning_outcomes": [
+            "Understand data science workflows",
+            "Analyze datasets using Python",
+            "Work with Pandas and basic data analysis"
+        ]
+    },
+    {
+        "course_id": "AI008",
+        "course_name": "LLM Application Development",
+        "category": "Generative AI",
+        "difficulty": "Advanced",
+        "prerequisites": [
+            "Python",
+            "Generative AI and LLMs"
+        ],
+        "skills": [
+            "LLM Applications",
+            "Prompt Engineering",
+            "RAG",
+            "AI Agents"
+        ],
+        "learning_outcomes": [
+            "Build applications using LLMs",
+            "Apply prompt engineering techniques",
+            "Build RAG and agent-based applications"
+        ]
+    },
+    {
+        "course_id": "CL001",
+        "course_name": "AWS Cloud Foundations",
+        "category": "Cloud Computing",
+        "difficulty": "Beginner",
+        "prerequisites": [
+            "Basic computer knowledge"
+        ],
+        "skills": [
+            "AWS",
+            "Cloud Computing"
+        ],
+        "learning_outcomes": [
+            "Understand cloud computing concepts",
+            "Understand AWS core services",
+            "Deploy basic cloud applications"
+        ]
+    },
+    {
+        "course_id": "CL002",
+        "course_name": "AWS Solutions Architect Fundamentals",
+        "category": "Cloud Computing",
+        "difficulty": "Intermediate",
+        "prerequisites": [
+            "AWS Cloud Foundations"
+        ],
+        "skills": [
+            "AWS",
+            "Cloud Architecture"
+        ],
+        "learning_outcomes": [
+            "Design basic AWS architectures",
+            "Understand scalability and availability",
+            "Select appropriate AWS services"
+        ]
+    },
+    {
+        "course_id": "CL003",
+        "course_name": "DevOps Fundamentals",
+        "category": "DevOps",
+        "difficulty": "Intermediate",
+        "prerequisites": [
+            "AWS Cloud Foundations"
+        ],
+        "skills": [
+            "DevOps",
+            "CI/CD",
+            "Cloud"
+        ],
+        "learning_outcomes": [
+            "Understand DevOps principles",
+            "Understand CI/CD pipelines",
+            "Understand cloud-based development workflows"
+        ]
+    },
+    {
+        "course_id": "CL004",
+        "course_name": "Docker and Container Fundamentals",
+        "category": "DevOps",
+        "difficulty": "Intermediate",
+        "prerequisites": [
+            "DevOps Fundamentals"
+        ],
+        "skills": [
+            "Docker",
+            "Containers",
+            "Containerization"
+        ],
+        "learning_outcomes": [
+            "Understand containerization",
+            "Create Docker containers",
+            "Build and manage container images"
+        ]
+    },
+    {
+        "course_id": "CL005",
+        "course_name": "Kubernetes Fundamentals",
+        "category": "DevOps",
+        "difficulty": "Advanced",
+        "prerequisites": [
+            "Docker and Container Fundamentals"
+        ],
+        "skills": [
+            "Kubernetes",
+            "Container Orchestration"
+        ],
+        "learning_outcomes": [
+            "Understand Kubernetes architecture",
+            "Deploy applications to Kubernetes",
+            "Manage containerized workloads"
+        ]
+    },
+    {
+        "course_id": "CL006",
+        "course_name": "AWS DevOps Fundamentals",
+        "category": "DevOps",
+        "difficulty": "Advanced",
+        "prerequisites": [
+            "AWS Solutions Architect Fundamentals",
+            "Docker and Container Fundamentals"
+        ],
+        "skills": [
+            "AWS DevOps",
+            "CI/CD",
+            "Cloud Deployment"
+        ],
+        "learning_outcomes": [
+            "Understand AWS DevOps services",
+            "Build cloud CI/CD pipelines",
+            "Deploy applications using AWS"
+        ]
+    },
+    {
+        "course_id": "DS001",
+        "course_name": "SQL and Database Fundamentals",
+        "category": "Data Science",
+        "difficulty": "Beginner",
+        "prerequisites": [
+            "Basic computer knowledge"
+        ],
+        "skills": [
+            "SQL",
+            "Databases",
+            "Database Fundamentals"
+        ],
+        "learning_outcomes": [
+            "Write basic SQL queries",
+            "Understand relational databases",
+            "Retrieve and manipulate database records"
+        ]
+    },
+    {
+        "course_id": "DS002",
+        "course_name": "Data Analytics with Python",
+        "category": "Data Science",
+        "difficulty": "Intermediate",
+        "prerequisites": [
+            "Python",
+            "SQL and Database Fundamentals",
+            "Basic Statistics"
+        ],
+        "skills": [
+            "Python Data Analysis",
+            "Pandas",
+            "Data Visualization",
+            "SQL"
+        ],
+        "learning_outcomes": [
+            "Analyze datasets using Python",
+            "Create data visualizations",
+            "Perform exploratory data analysis"
+        ]
+    },
+    {
+        "course_id": "WEB001",
+        "course_name": "Web Development Fundamentals",
+        "category": "Web Development",
+        "difficulty": "Beginner",
+        "prerequisites": [
+            "Basic computer knowledge"
+        ],
+        "skills": [
+            "HTML",
+            "CSS",
+            "JavaScript",
+            "Web Development"
+        ],
+        "learning_outcomes": [
+            "Build basic web pages",
+            "Understand HTML and CSS",
+            "Understand JavaScript fundamentals"
+        ]
+    },
+    {
+        "course_id": "WEB002",
+        "course_name": "Backend Development with Python",
+        "category": "Web Development",
+        "difficulty": "Intermediate",
+        "prerequisites": [
+            "Python",
+            "Web Development Fundamentals"
+        ],
+        "skills": [
+            "Python Backend",
+            "APIs",
+            "Backend Development"
+        ],
+        "learning_outcomes": [
+            "Build backend applications using Python",
+            "Create basic REST APIs",
+            "Understand backend application architecture"
+        ]
+    },
+    {
+        "course_id": "CY001",
+        "course_name": "Cybersecurity Fundamentals",
+        "category": "Cybersecurity",
+        "difficulty": "Beginner",
+        "prerequisites": [
+            "Basic computer knowledge"
+        ],
+        "skills": [
+            "Cybersecurity",
+            "Network Security",
+            "Security Fundamentals"
+        ],
+        "learning_outcomes": [
+            "Understand cybersecurity fundamentals",
+            "Understand common security threats",
+            "Understand basic network security concepts"
+        ]
+    },
+    {
+        "course_id": "CY002",
+        "course_name": "Cloud Security Fundamentals",
+        "category": "Cybersecurity",
+        "difficulty": "Intermediate",
+        "prerequisites": [
+            "AWS Cloud Foundations",
+            "Cybersecurity Fundamentals"
+        ],
+        "skills": [
+            "Cloud Security",
+            "AWS Security",
+            "Security Architecture"
+        ],
+        "learning_outcomes": [
+            "Understand cloud security principles",
+            "Understand AWS security concepts",
+            "Apply basic cloud security practices"
+        ]
+    }
+]

@@ -1,0 +1,21 @@
+# Multi-Agent Framework & Orchestration
+langgraph>=0.2.20
+langchain>=0.3.0
+langchain-core>=0.3.0
+langchain-community>=0.3.0
+
+# Local LLM & Ollama Integration
+langchain-ollama>=0.2.0
+ollama>=0.3.0
+
+# Embeddings & Vector Database (Local RAG)
+sentence-transformers>=3.0.0
+langchain-huggingface>=0.1.0
+chromadb>=0.5.5
+
+# Web UI
+streamlit>=1.38.0
+
+# Data Validation & Utilities
+pydantic>=2.8.0
+python-dotenv>=1.0.1
